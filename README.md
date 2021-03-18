@@ -22,13 +22,6 @@ You can now view tic-tac-toe in the browser.
 http://localhost:3000
 
 
-3. Application will start running on port 8080
-http://localhost:8080
-
-
-4. Json will run on port 8081
-
-http://localhost:8081/transactions
 
 Please note I have included CORS headers in axios
 
