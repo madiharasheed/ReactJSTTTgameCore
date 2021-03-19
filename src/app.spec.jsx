@@ -1,6 +1,6 @@
 import React from "react";
 import { shallow, mount } from "enzyme";
-
+// Testing
 import App from "./app";
 
 describe("App component", () => {
